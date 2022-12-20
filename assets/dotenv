@@ -1,0 +1,5 @@
+BASE_URL=https://api.github.com
+LOCALE=en
+# MODE=RELEASE
+MODE=DEBUG
+COUNTRY_CODE=+62
